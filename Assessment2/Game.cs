@@ -42,6 +42,11 @@ namespace Assessment2
             return PlayerScores;
         }
 
+        public Die[] GetDice()
+        {
+            return Dice;
+        }
+
         // Get the current player
         public int GetCurrentPlayer()
         {

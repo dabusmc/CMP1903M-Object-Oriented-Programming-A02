@@ -5,3 +5,10 @@ C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Assessment2\obj\Debug
 C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
 C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Assessment2\obj\Debug\Assessment2.exe
 C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Assessment2\obj\Debug\Assessment2.pdb
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\obj\Debug\Assessment2.pdb
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\charl\Documents\University\Year 1\OOP\Assessment2\Code\Assessment2\bin\Debug\Assessment2.pdb

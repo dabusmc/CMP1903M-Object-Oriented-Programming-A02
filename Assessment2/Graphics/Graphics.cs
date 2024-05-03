@@ -12,8 +12,6 @@ namespace Assessment2
 
         public bool Initialised { get; private set; }
 
-        private bool m_Running;
-
         private List<IDrawable> m_DrawQueue = new List<IDrawable>();
 
         public Graphics()
@@ -22,12 +20,10 @@ namespace Assessment2
             {
                 Console.WriteLine("There should only ever be one instance of Graphics");
                 Initialised = false;
-                m_Running = false;
             }
             else
             {
                 Instance = this;
-                m_Running = true;
                 Initialise();
             }
         }
@@ -63,7 +59,6 @@ namespace Assessment2
             {
                 if (currentFrameKeyInfo.Key == ConsoleKey.Escape)
                 {
-                    Stop();
                     break;
                 }
 
@@ -90,11 +85,6 @@ namespace Assessment2
         public ConsoleKeyInfo WaitForInput()
         {
             return Console.ReadKey();
-        }
-
-        public void Stop()
-        {
-            m_Running = false;
         }
     }
 }
