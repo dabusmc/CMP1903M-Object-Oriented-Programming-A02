@@ -1,0 +1,29 @@
+For the second online interview for the coding job, you have been asked to prepare a solution
+application with at least these classes:
+	x	A Die class.
+	x	A Game class.
+		x	SevensOut class
+		x	ThreeOrMore class
+	x	A Statistics class
+	x	A Testing class.
+
+The rules for the two games are contained in the additional file (gameRules.txt)
+
+x	The Die class should contain one property to hold the die current value, and one method that
+	returns an integer and takes no parameters:
+		int Roll()
+
+The game should have a menu which allows players to:
+	x	Instantiate the Sevens Out game
+	x	Instantiate the Three Or More game
+	x	View statistics data
+	x	Perform tests in Testing class.
+
+The Statistics class should:
+x	Store game statistics for each game type (number of plays, high-scores, etc)
+
+The Testing class should:
+	x	Create a Game object.
+	x	Use debug.assert() to verify:
+		Sevens Out: Total of sum, stop if total = 7
+		Three Or More: Scores set and added correctly, recognise when total >= 20.
